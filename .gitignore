@@ -1,0 +1,7 @@
+*.javac
+.classpath
+.project
+.settings
+bin
+/.gradle/
+/build/
